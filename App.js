@@ -22,7 +22,7 @@ class UI {
             </div>
         `;
         productList.appendChild(element);
-        this.resetForm(); //Para llamar a la funcion de resetear el formulario,.
+        this.resetForm(); //Para llamar a la funcion de resetear el formulario,test de contenido .
     }
 
     resetForm(){
